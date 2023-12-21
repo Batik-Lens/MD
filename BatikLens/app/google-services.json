@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235012849528",
+    "firebase_url": "https://batik-lens-f1494-default-rtdb.firebaseio.com",
+    "project_id": "batik-lens-f1494",
+    "storage_bucket": "batik-lens-f1494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235012849528:android:e8479ac69b2f005c91128d",
+        "android_client_info": {
+          "package_name": "com.example.batiklens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235012849528-771n2d5ed1hg1j6vo8tfj9dltg4jc2b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batiklens",
+            "certificate_hash": "abcc75aac708418d681b17333b187e451ac1916d"
+          }
+        },
+        {
+          "client_id": "235012849528-r27ps126doq5gcjlts3f54m4oo98btc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIGLP_qLvZZISNivZR6mJ_8rIjb4J_eYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235012849528-r27ps126doq5gcjlts3f54m4oo98btc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
