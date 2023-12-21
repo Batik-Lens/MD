@@ -1,4 +1,4 @@
-# MD
+# Batik Lens App
 
 ## Mobile Development Documentation
 
