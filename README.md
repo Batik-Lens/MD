@@ -3,7 +3,7 @@
 ## Mobile Development Documentation
 
  - ### User Interface
-![ui_batiklens](https://raw.githubusercontent.com/Batik-Lens/MD/main/Ui/ui_batiklens.jpg)
+   ![ui_batiklens](https://raw.githubusercontent.com/Batik-Lens/MD/main/Ui/ui_batiklens.jpg)
  - ### Feature
       * **Splash Screen**
 
@@ -22,7 +22,6 @@
   - [Firebase Realtime Database](https://firebase.google.com/docs/database/android/start) - Version 20.3.0
   - [TensorFlow Lite Support](https://www.tensorflow.org/lite/guide/android) - Version 0.1.0
   - [TensorFlow Lite Metadata](https://www.tensorflow.org/lite/guide/android) - Version 0.1.0
-  - [Play Services Authentication](https://developers.google.com/identity) - Version 20.2.0
   - [JUnit](https://junit.org/junit4/) - Version 4.13.2 (for testing)
   - [JUnit Android Extension](https://developer.android.com/training/testing/junit-rules) - Version 1.1.5 (for Android testing)
   - [Espresso](https://developer.android.com/training/testing/espresso) - Version 3.5.1 (for UI testing)
